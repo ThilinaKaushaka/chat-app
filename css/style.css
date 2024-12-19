@@ -12,7 +12,9 @@
     bottom: 10px;
 }
 
-.c{
+.c{ 
+    scroll-behavior: auto;
+
     display: block;
     z-index: 1;
     
