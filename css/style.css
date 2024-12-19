@@ -1,0 +1,28 @@
+.app{
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+    border-radius: 30px;
+    margin: auto;
+    z-index: -1;
+}
+
+.msg{
+    position: relative;
+    bottom: 10px;
+}
+
+.c{
+    display: block;
+    z-index: 1;
+    
+    background-color: aqua;
+}
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
